@@ -1,5 +1,6 @@
 {
-  "status": "closed",
+  "status": "open",
+  "date": "02/12/2025",
   "code": 42,
   "message": "Demo API response for students"
 }
